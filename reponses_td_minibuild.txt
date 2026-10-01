@@ -1,0 +1,11 @@
+Question 2.
+
+JUnit est un framework permettant d’écrire des tests unitaires en langage Java.
+
+Hamcrest est une bibliothèque de matchers qui permet d'écrire des assertions plus lisibles, décrivant des propriétés attendues comme des collections ou chaînes plutôt que des égalité stricte.
+
+Mockito est un framework Java permettant de créer des doublures (objets  simulés) pour les tests unitaires.
+
+JaCoCo est une bibliothèque permettant de mesurer la couverture du code Java par les tests.
+
+JaCoCO n'est pas une bibliothèque de test.
